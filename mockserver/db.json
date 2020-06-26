@@ -1,0 +1,11 @@
+{   
+    "health": {"Check":"OK"},
+    
+    "findings": [
+        { "id": 1, "label": "lung-finding-one", "critical": false}, 
+        { "id":2, "label": "lung-finding-two", "critical": true}
+    ],
+    "images": [
+        { "id": 1, "imageUrl": "https://image-url1.com", "findingId": 1 }
+    ]
+  }

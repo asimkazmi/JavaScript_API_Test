@@ -1,0 +1,6 @@
+{
+    "test1": { "id": 1, "label": "lung-finding-one", "critical": false }, 
+    "test2": { "id":2, "label": "lung-finding-two", "critical": true },
+    "test3": { "id": 3 },
+    "test4": { "id": 1, "imageUrl": "https://image-url1.com", "findingId": 1 }
+}

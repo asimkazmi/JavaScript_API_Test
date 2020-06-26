@@ -1,0 +1,9 @@
+{
+  "BaseURL" : "http://localhost:3000/",
+  
+  "endPoints":{
+    "healthCheck": "health/",
+    "findings": "findings/",
+    "images": "images/"
+  }
+}
