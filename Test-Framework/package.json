@@ -22,7 +22,7 @@
   "author": "kazmiasim@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chai-http": "^4.2.0"
   },
   "devDependencies": {
